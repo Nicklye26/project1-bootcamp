@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project1-bootcamp/static/css/main.fb606519.css",
+    "main.js": "/project1-bootcamp/static/js/main.a7d7ad3d.js",
+    "static/media/circle-fifths1.png": "/project1-bootcamp/static/media/circle-fifths1.357e5c5c8830867eb5e4.png",
+    "index.html": "/project1-bootcamp/index.html",
+    "main.fb606519.css.map": "/project1-bootcamp/static/css/main.fb606519.css.map",
+    "main.a7d7ad3d.js.map": "/project1-bootcamp/static/js/main.a7d7ad3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb606519.css",
+    "static/js/main.a7d7ad3d.js"
+  ]
+}
